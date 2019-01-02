@@ -1,5 +1,5 @@
 ###########
 ###########This is a Test########
 
-print ("TEST")
+print("TEST")
 
